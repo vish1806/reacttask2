@@ -1,4 +1,4 @@
-import { Calculator } from './component/Calc';
+import { Calculator } from './Calc';
 function App() {
   return (
     <div className="App">
